@@ -10,7 +10,7 @@ Este é um sistema completo para cadastro, edição e listagem de produtos, comp
 - **Styled Components** - Estilização dinâmica dos componentes  
 - **React Toastify** - Notificações elegantes  
 
-### **2️⃣ Instalando as dependências**
+### **Instalando as dependências**
 
   npm install
 
