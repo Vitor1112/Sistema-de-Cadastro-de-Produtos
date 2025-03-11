@@ -53,8 +53,5 @@ npm run dev
 git clone https://github.com/seu-usuario/sistema-cadastro-produtos.git
 cd sistema-cadastro-produtos
 
-### **2️⃣ Instalando as dependências**
-
-  npm install
 
 
